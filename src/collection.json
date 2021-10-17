@@ -1,0 +1,62 @@
+[
+	{
+	    "collection":
+	    {
+	        "collection_id": 99,
+	        "res_count": 28,
+	        "image_url": "images/collection/sports.png",
+	        "title": "Live Sports Screenings",
+	        "description": "Love and live all the exciting sporting events at our specially curated list of places! "
+	    }
+	},
+	{
+	    "collection":
+	    {
+	        "collection_id": 29,
+	        "res_count": 19,
+	        "image_url": "images/collection/newly.png",
+	        "title": "Newly Opened",
+	        "description": "The best new places in town"
+	    }
+	},
+	{
+	    "collection":
+	    {
+	        "collection_id": 1,
+	        "res_count": 30,
+	        "image_url": "images/collection/trending.png",
+	        "title": "Trending This Week",
+	        "description": "Most popular restaurants in town this week"
+	    }
+	},
+	{
+	    "collection":
+	    {
+	        "collection_id": 274852,
+	        "res_count": 159,
+	        "image_url": "images/collection/delhi.png",
+	        "title": "Best of Delhi NCR",
+	        "description": "Your search for the city's top rated restaurants ends here"
+	    }
+	},
+	{
+	    "collection":
+	    {
+	        "collection_id": 321,
+	        "res_count": 32,
+	        "image_url": "images/collection/pizza.png",
+	        "title": "In Pizza We Crust",
+	        "description": "You can always count on pizza and you can always count on us for finding the best places to have it! "
+	    }
+	},
+	{
+	    "collection":
+	    {
+	        "collection_id": 51,
+	        "res_count": 34,
+	        "image_url": "images/collection/biryani.png",
+	        "title": "Brilliant Biryanis",
+	        "description": "Hyderabadi, Kolkata, Lucknowi...the choice is yours"
+	    }
+	}
+]

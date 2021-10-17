@@ -1,0 +1,749 @@
+[
+    {
+        "restaurant":
+        {
+            "R":
+            {
+                "res_id": 19890381,
+                "is_grocery_store": false,
+                "has_menu_status":
+                {
+                    "delivery": -1,
+                    "takeaway": -1
+                }
+            },
+            "id": "19890381",
+            "name": "Secret Story",
+            "location":
+            {
+                "address": "968, 3rd & 4th Floor, 12th Main Road, HAL 2nd Stage, Indiranagar, Bangalore",
+                "locality": "Indiranagar",
+                "city": "Bangalore",
+                "city_id": 4,
+                "latitude": "12.9700913769",
+                "longitude": "77.6391056930",
+                "zipcode": "",
+                "country_id": 1,
+                "locality_verbose": "Indiranagar, Bangalore"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "Continental, Italian, North Indian, Beverages",
+            "timings": "12 Noon to 9 PM",
+            "average_cost_for_two": 1500,
+            "price_range": 3,
+            "currency": "Rs.",
+            "highlights":
+            [
+                "Takeaway Available",
+                "Debit Card",
+                "Dinner",
+                "Cash",
+                "Delivery",
+                "Credit Card",
+                "Lunch",
+                "Air Conditioned",
+                "Smoking Area",
+                "Free Parking",
+                "Fullbar",
+                "Live Music",
+                "Serves Cocktails",
+                "Digital Payments Accepted",
+                "Live Sports Screening",
+                "Wine",
+                "Indoor Seating"
+            ],
+            "offers":
+            [],
+            "opentable_support": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "",
+            "user_rating":
+            {
+                "aggregate_rating": "3.7",
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "rating_obj":
+                {
+                    "title":
+                    {
+                        "text": "NEW"
+                    },
+                    "bg_color":
+                    {
+                        "type": "grey",
+                        "tint": "400"
+                    }
+                },
+                "votes": 95,
+                "custom_rating_text": "NEW",
+                "custom_rating_text_background": "#89959B",
+                "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+            },
+            "all_reviews_count": 92,
+            "featured_image": "",
+            "medio_provider": true,
+            "has_online_delivery": 0,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "is_table_reservation_supported": 1,
+            "has_table_booking": 0,
+            "all_reviews":
+            {
+                "reviews":
+                [
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    }
+                ]
+            },
+            "establishment":
+            [
+                "Bar"
+            ],
+            "establishment_types":
+            []
+        }
+    },
+    {
+        "restaurant":
+        {
+            "R":
+            {
+                "res_id": 19812983,
+                "is_grocery_store": false,
+                "has_menu_status":
+                {
+                    "delivery": true,
+                    "takeaway": -1
+                }
+            },
+            "id": "19812983",
+            "name": "Pasta Street",
+            "location":
+            {
+                "address": "74, Sarakki Industrial Layout, 3rd Phase, 15th Cross Road, JP Nagar, Bangalore",
+                "locality": "JP Nagar",
+                "city": "Bangalore",
+                "city_id": 4,
+                "latitude": "12.9070039657",
+                "longitude": "77.5990054384",
+                "zipcode": "560078",
+                "country_id": 1,
+                "locality_verbose": "JP Nagar, Bangalore"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "Italian, European, Pizza, Pasta, Salad, Desserts, Beverages",
+            "timings": "11 AM – 11 PM",
+            "average_cost_for_two": 1500,
+            "price_range": 3,
+            "currency": "Rs.",
+            "highlights":
+            [
+                "Lunch",
+                "Cash",
+                "Delivery",
+                "Credit Card",
+                "Dinner",
+                "Takeaway Available",
+                "Debit Card",
+                "Valet Parking Available",
+                "Wine",
+                "Table booking recommended",
+                "Snacks",
+                "Air Conditioned",
+                "Wheelchair Accessible",
+                "Desserts and Bakes",
+                "Outdoor Seating",
+                "Serves Cocktails",
+                "Beverages",
+                "Digital Payments Accepted",
+                "Family Friendly",
+                "Smoking Area",
+                "Wifi"
+            ],
+            "offers":
+            [],
+            "opentable_support": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "",
+            "user_rating":
+            {
+                "aggregate_rating": "4.2",
+                "rating_text": "Very Good",
+                "rating_color": "5BA829",
+                "rating_obj":
+                {
+                    "title":
+                    {
+                        "text": "NEW"
+                    },
+                    "bg_color":
+                    {
+                        "type": "grey",
+                        "tint": "400"
+                    }
+                },
+                "votes": 272,
+                "custom_rating_text": "NEW",
+                "custom_rating_text_background": "#89959B",
+                "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+            },
+            "all_reviews_count": 211,
+            "featured_image": "",
+            "medio_provider": true,
+            "has_online_delivery": 1,
+            "is_delivering_now": 1,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "order_deeplink": "",
+            "is_table_reservation_supported": 1,
+            "has_table_booking": 1,
+            "all_reviews":
+            {
+                "reviews":
+                [
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    }
+                ]
+            },
+            "establishment":
+            [
+                "Casual Dining"
+            ],
+            "establishment_types":
+            []
+        }
+    },
+    {
+        "restaurant":
+        {
+            "R":
+            {
+                "res_id": 19357004,
+                "is_grocery_store": false,
+                "has_menu_status":
+                {
+                    "delivery": -1,
+                    "takeaway": -1
+                }
+            },
+            "id": "19357004",
+            "name": "Ulta Tawa",
+            "location":
+            {
+                "address": "19, Jaladarshini Layout, Near Reliance Digital, New BEL Road, Bangalore",
+                "locality": "New BEL Road",
+                "city": "Bangalore",
+                "city_id": 4,
+                "latitude": "13.0316770000",
+                "longitude": "77.5699790000",
+                "zipcode": "",
+                "country_id": 1,
+                "locality_verbose": "New BEL Road, Bangalore"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "North Indian, Mughlai, Seafood, Desserts",
+            "timings": "12noon – 3pm, 7pm – 11pm (Mon-Sun)",
+            "average_cost_for_two": 1000,
+            "price_range": 3,
+            "currency": "Rs.",
+            "highlights":
+            [
+                "Lunch",
+                "Cash",
+                "Debit Card",
+                "Dinner",
+                "Credit Card",
+                "Indoor Seating",
+                "Rooftop",
+                "Desserts and Bakes"
+            ],
+            "offers":
+            [],
+            "opentable_support": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "images/thumb/ulta_tawa_thumb.jpg",
+            "user_rating":
+            {
+                "aggregate_rating": "3.7",
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "rating_obj":
+                {
+                    "title":
+                    {
+                        "text": "NEW"
+                    },
+                    "bg_color":
+                    {
+                        "type": "grey",
+                        "tint": "400"
+                    }
+                },
+                "votes": 71,
+                "custom_rating_text": "NEW",
+                "custom_rating_text_background": "#89959B",
+                "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+            },
+            "all_reviews_count": 65,
+            "featured_image": "images/restaurant/ulta_tawa.png",
+            "medio_provider": true,
+            "has_online_delivery": 0,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "is_table_reservation_supported": 1,
+            "has_table_booking": 0,
+            "all_reviews":
+            {
+                "reviews":
+                [
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    }
+                ]
+            },
+            "establishment":
+            [
+                "Casual Dining"
+            ],
+            "establishment_types":
+            []
+        }
+    },
+    {
+        "restaurant":
+        {
+            "R":
+            {
+                "res_id": 19838369,
+                "is_grocery_store": false,
+                "has_menu_status":
+                {
+                    "delivery": true,
+                    "takeaway": -1
+                }
+            },
+            "id": "19838369",
+            "name": "Hopshaus",
+            "location":
+            {
+                "address": "608, 1st Floor, 7th Cross, 12th Main Road, Indiranagar, Bangalore",
+                "locality": "Indiranagar",
+                "city": "Bangalore",
+                "city_id": 4,
+                "latitude": "12.9704858850",
+                "longitude": "77.6448408774",
+                "zipcode": "",
+                "country_id": 1,
+                "locality_verbose": "Indiranagar, Bangalore"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "Continental, North Indian, Mughlai, Desserts, Beverages",
+            "timings": "11:30 AM to 11:30 PM",
+            "average_cost_for_two": 1500,
+            "price_range": 3,
+            "currency": "Rs.",
+            "highlights":
+            [
+                "Lunch",
+                "Cash",
+                "Takeaway Available",
+                "Debit Card",
+                "Dinner",
+                "Delivery",
+                "Credit Card",
+                "Valet Parking Available",
+                "Outdoor Seating",
+                "Table booking recommended",
+                "Wifi",
+                "Fullbar",
+                "Indoor Seating",
+                "Available for Functions",
+                "Smoking Area",
+                "Desserts and Bakes"
+            ],
+            "offers":
+            [],
+            "opentable_support": 0,
+            "is_zomato_book_res": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "images/thumb/hopspaus.jpg",
+            "user_rating":
+            {
+                "aggregate_rating": "3.6",
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "rating_obj":
+                {
+                    "title":
+                    {
+                        "text": "NEW"
+                    },
+                    "bg_color":
+                    {
+                        "type": "grey",
+                        "tint": "400"
+                    }
+                },
+                "votes": 16,
+                "custom_rating_text": "NEW",
+                "custom_rating_text_background": "#89959B",
+                "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+            },
+            "all_reviews_count": 12,
+            "featured_image": "images/restaurant/hopspaus.png",
+            "medio_provider": true,
+            "has_online_delivery": 1,
+            "is_delivering_now": 1,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "order_deeplink": "",
+            "is_table_reservation_supported": 1,
+            "has_table_booking": 0,
+            "all_reviews":
+            {
+                "reviews":
+                [
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    }
+                ]
+            },
+            "establishment":
+            [
+                "Bar"
+            ],
+            "establishment_types":
+            []
+        }
+    },
+    {
+        "restaurant":
+        {
+            "R":
+            {
+                "res_id": 19866529,
+                "is_grocery_store": false,
+                "has_menu_status":
+                {
+                    "delivery": true,
+                    "takeaway": -1
+                }
+            },
+            "id": "19866529",
+            "name": "Amigoo Bistro Bar",
+            "location":
+            {
+                "address": "765, 5th Floor, Indiranagar, Bangalore",
+                "locality": "Indiranagar",
+                "city": "Bangalore",
+                "city_id": 4,
+                "latitude": "12.9706716000",
+                "longitude": "77.6411115000",
+                "zipcode": "",
+                "country_id": 1,
+                "locality_verbose": "Indiranagar, Bangalore"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "Continental, Italian, Bar Food, Fast Food, Beverages",
+            "timings": "11am – 10pm (Mon-Sun)",
+            "average_cost_for_two": 1500,
+            "price_range": 3,
+            "currency": "Rs.",
+            "highlights":
+            [
+                "Lunch",
+                "Cash",
+                "Delivery",
+                "Credit Card",
+                "Dinner",
+                "Takeaway Available",
+                "Debit Card",
+                "Free Parking",
+                "Fullbar",
+                "Outdoor Seating",
+                "Beer",
+                "Indoor Seating",
+                "Snacks",
+                "Live Entertainment",
+                "Gastro Pub",
+                "Wine",
+                "Live Music",
+                "Serves Cocktails",
+                "Air Conditioned",
+                "Smoking Area"
+            ],
+            "offers":
+            [],
+            "opentable_support": 0,
+            "mezzo_provider": "ZOMATO_BOOK",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "thumb": "",
+            "user_rating":
+            {
+                "aggregate_rating": "3.9",
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "rating_obj":
+                {
+                    "title":
+                    {
+                        "text": "NEW"
+                    },
+                    "bg_color":
+                    {
+                        "type": "grey",
+                        "tint": "400"
+                    }
+                },
+                "votes": 40,
+                "custom_rating_text": "NEW",
+                "custom_rating_text_background": "#89959B",
+                "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+            },
+            "all_reviews_count": 42,
+            "featured_image": "",
+            "medio_provider": "",
+            "has_online_delivery": 1,
+            "is_delivering_now": 1,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "order_deeplink": "",
+            "is_table_reservation_supported": 1,
+            "has_table_booking": 1,
+            "all_reviews":
+            {
+                "reviews":
+                [
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    }
+                ]
+            },
+            "establishment":
+            [
+                "Pub"
+            ],
+            "establishment_types":
+            []
+        }
+    },
+    {
+        "restaurant":
+        {
+            "R":
+            {
+                "res_id": 19925361,
+                "is_grocery_store": false,
+                "has_menu_status":
+                {
+                    "delivery": -1,
+                    "takeaway": -1
+                }
+            },
+            "id": "19925361",
+            "name": "Altitude Kitchen & Bar",
+            "location":
+            {
+                "address": "5, 4th Floor, 3rd Stage, 4th Block, West Of Chord Road, Basaveshwar Nagar, Basaveshwara Nagar, Bangalore",
+                "locality": "Basaveshwara Nagar",
+                "city": "Bangalore",
+                "city_id": 4,
+                "latitude": "12.9566175000",
+                "longitude": "77.5120786000",
+                "zipcode": "560072",
+                "country_id": 1,
+                "locality_verbose": "Basaveshwara Nagar, Bangalore"
+            },
+            "switch_to_order_menu": 0,
+            "cuisines": "Finger Food",
+            "timings": "11 AM to 12 Midnight",
+            "average_cost_for_two": 1500,
+            "price_range": 3,
+            "currency": "Rs.",
+            "highlights":
+            [
+                "Lunch",
+                "Cash",
+                "Dinner",
+                "Fullbar",
+                "Digital Payments Accepted",
+                "Indoor Seating",
+                "Air Conditioned",
+                "Smoking Area"
+            ],
+            "offers":
+            [],
+            "opentable_support": 0,
+            "mezzo_provider": "OTHER",
+            "is_book_form_web_view": 0,
+            "book_form_web_view_url": "",
+            "book_again_url": "",
+            "thumb": "",
+            "user_rating":
+            {
+                "aggregate_rating": "3.7",
+                "rating_text": "Good",
+                "rating_color": "9ACD32",
+                "rating_obj":
+                {
+                    "title":
+                    {
+                        "text": "NEW"
+                    },
+                    "bg_color":
+                    {
+                        "type": "grey",
+                        "tint": "400"
+                    }
+                },
+                "votes": 28,
+                "custom_rating_text": "NEW",
+                "custom_rating_text_background": "#89959B",
+                "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+            },
+            "all_reviews_count": 21,
+            "featured_image": "",
+            "medio_provider": false,
+            "has_online_delivery": 0,
+            "is_delivering_now": 0,
+            "store_type": "",
+            "include_bogo_offers": true,
+            "is_table_reservation_supported": 0,
+            "has_table_booking": 0,
+            "all_reviews":
+            {
+                "reviews":
+                [
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    },
+                    {
+                        "review":
+                        []
+                    }
+                ]
+            },
+            "establishment":
+            [
+                "Bar"
+            ],
+            "establishment_types":
+            []
+        }
+    }
+]

@@ -1,0 +1,112 @@
+{
+    "R":
+    {
+        "res_id": 19357004,
+        "is_grocery_store": false,
+        "has_menu_status":
+        {
+            "delivery": -1,
+            "takeaway": -1
+        }
+    },
+    "id": "19357004",
+    "name": "Ulta Tawa",
+    "location":
+    {
+        "address": "19, Jaladarshini Layout, Near Reliance Digital, New BEL Road, Bangalore",
+        "locality": "New BEL Road",
+        "city": "Bangalore",
+        "city_id": 4,
+        "latitude": "13.0316770000",
+        "longitude": "77.5699790000",
+        "zipcode": "",
+        "country_id": 1,
+        "locality_verbose": "New BEL Road, Bangalore"
+    },
+    "switch_to_order_menu": 0,
+    "cuisines": "North Indian, Mughlai, Seafood, Desserts",
+    "timings": "12noon – 3pm, 7pm – 11pm (Mon-Sun)",
+    "average_cost_for_two": 1000,
+    "price_range": 3,
+    "currency": "Rs.",
+    "highlights":
+    [
+        "Lunch",
+        "Cash",
+        "Debit Card",
+        "Dinner",
+        "Credit Card",
+        "Indoor Seating",
+        "Rooftop",
+        "Desserts and Bakes"
+    ],
+    "offers":
+    [],
+    "opentable_support": 0,
+    "mezzo_provider": "OTHER",
+    "is_book_form_web_view": 0,
+    "book_form_web_view_url": "",
+    "book_again_url": "",
+    "thumb": "images/thumb/ulta_tawa_thumb.jpg",
+    "user_rating":
+    {
+        "aggregate_rating": "3.7",
+        "rating_text": "Good",
+        "rating_color": "9ACD32",
+        "rating_obj":
+        {
+            "title":
+            {
+                "text": "NEW"
+            },
+            "bg_color":
+            {
+                "type": "grey",
+                "tint": "400"
+            }
+        },
+        "votes": 71,
+        "custom_rating_text": "NEW",
+        "custom_rating_text_background": "#89959B",
+        "rating_tool_tip": "This restaurant is newly opened. The rating will appear once the restaurant completes 60 days in operation."
+    },
+    "all_reviews_count": 65,
+    "featured_image": "images/restaurant/ulta_tawa.png",
+    "medio_provider": true,
+    "has_online_delivery": 0,
+    "is_delivering_now": 0,
+    "store_type": "",
+    "include_bogo_offers": true,
+    "is_table_reservation_supported": 1,
+    "has_table_booking": 0,
+    "all_reviews":
+    {
+        "reviews":
+        [
+            {
+                "review":
+                []
+            },
+            {
+                "review":
+                []
+            },
+            {
+                "review":
+                []
+            },
+            {
+                "review":
+                []
+            },
+            {
+                "review":
+                []
+            }
+        ]
+    },
+    "establishment":
+    [
+        "Casual Dining"
+    ]
+}
