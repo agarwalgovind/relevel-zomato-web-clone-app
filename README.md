@@ -22,3 +22,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # relevel-zomato-web-clone-app
+
+Note:
+Some of the resources like images, icon links, references etc. may have been taken from website and some other internet sources and may be subject to copyright, so try not to use the resources for business purposes/commercial activity or reproduce them. Resources used here are just for educational purpose.
